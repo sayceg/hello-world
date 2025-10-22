@@ -1,0 +1,11 @@
+Product owner | Gavin Sayce
+Business analyst | Gavin Sayce
+UX/UI | Gavin Sayce
+Front end developer | Gavin Sayce
+Back end developer | Gavin Sayce
+Quality engineer | Gavin Sayce
+Release manager | Gavin Sayce
+Tagging and analytics | Gavin Sayce
+SEO | Gavin Sayce
+DevSecOps | Gavin Sayce
+Digital operations | Gavin Sayce
